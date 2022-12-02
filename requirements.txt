@@ -1,0 +1,7 @@
+prophet==1.1.1
+numpy==1.23.5
+protobuf==3.19.6
+streamlit==1.15.2
+Pandas==1.5.1
+altair==4.2.0
+darts==0.22.0
